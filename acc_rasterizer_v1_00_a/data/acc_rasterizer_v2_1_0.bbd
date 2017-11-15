@@ -1,0 +1,2 @@
+FILES
+tr_mem_32.ngc, tr_mem_64.ngc, tr_mem_128.ngc, frame_buffer.ngc, Depth_BRAM.ngc

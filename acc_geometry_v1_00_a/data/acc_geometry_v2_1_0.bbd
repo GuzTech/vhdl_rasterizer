@@ -1,0 +1,2 @@
+FILES
+fp_add.ngc, fp_mul.ngc, fp_div.ngc, fp_cmp.ngc, fp_sqrt.ngc, fp_addsub.ngc, fp_to_q8_24.ngc, fp_to_q1_31.ngc, fp_to_int16.ngc, int16_to_fp.ngc, fp_to_int32.ngc, int32_to_fp.ngc
